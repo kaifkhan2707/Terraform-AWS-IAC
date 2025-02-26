@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
 <body>
   <h1>Terraform Project Server 1</h1>
   <h2>Instance ID: <span style="color:green">$INSTANCE_ID</span></h2>
-  <p>Welcome to CloudChamp's Channel</p>
+  <p>Hey, I’m Kaif – that’s K-A-I-F, which in DevOps terms means ‘Keep All Infrastructure Functioning</p>
   
 </body>
 </html>
